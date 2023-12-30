@@ -5,6 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  font-weight: 400;
+
+  font-family: 'NanumBarunGothicExtraLight';
+  font-family: 'NanumBarunGothicLight';
+  font-family: 'NanumBarunGothic';
+  font-family: 'NanumBarunGothicBold';
+}
+
+input,
+button {
+  font-family: 'NanumBarunGothic';
+  font-weight: 400;
 }
 
 code {
