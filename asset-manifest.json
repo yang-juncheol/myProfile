@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hansei-frontend-example/static/css/main.e15d05fa.css",
-    "main.js": "/hansei-frontend-example/static/js/main.85b44621.js",
-    "static/js/787.c625c012.chunk.js": "/hansei-frontend-example/static/js/787.c625c012.chunk.js",
-    "index.html": "/hansei-frontend-example/index.html",
-    "main.e15d05fa.css.map": "/hansei-frontend-example/static/css/main.e15d05fa.css.map",
-    "main.85b44621.js.map": "/hansei-frontend-example/static/js/main.85b44621.js.map",
-    "787.c625c012.chunk.js.map": "/hansei-frontend-example/static/js/787.c625c012.chunk.js.map"
+    "main.css": "/myProfile/static/css/main.e15d05fa.css",
+    "main.js": "/myProfile/static/js/main.248e5e5a.js",
+    "static/js/787.c625c012.chunk.js": "/myProfile/static/js/787.c625c012.chunk.js",
+    "index.html": "/myProfile/index.html",
+    "main.e15d05fa.css.map": "/myProfile/static/css/main.e15d05fa.css.map",
+    "main.248e5e5a.js.map": "/myProfile/static/js/main.248e5e5a.js.map",
+    "787.c625c012.chunk.js.map": "/myProfile/static/js/787.c625c012.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e15d05fa.css",
-    "static/js/main.85b44621.js"
+    "static/js/main.248e5e5a.js"
   ]
 }
