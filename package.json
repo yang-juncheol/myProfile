@@ -1,8 +1,8 @@
 {
-  "name": "hansei-frontend-example",
+  "name": "myProfile",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://wdjty326.github.io/hansei-frontend-example/",
+  "homepage": "https://yang-juncheol.github.io/myProfile/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
