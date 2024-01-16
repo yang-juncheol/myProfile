@@ -19,7 +19,7 @@ function MyProfile() {
         </li>
         <li className={style.profileRow}>
           <h5>직장</h5>
-          <p>삼성</p>
+          <p>무직</p>
         </li>
       </ul>
     </div>
